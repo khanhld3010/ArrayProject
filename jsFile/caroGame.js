@@ -27,3 +27,6 @@ function changeValue(){
     }
     p.innerHTML = data;
 }
+
+
+nutBam.addEventListener("click", function() {});

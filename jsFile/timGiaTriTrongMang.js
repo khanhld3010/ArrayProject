@@ -14,5 +14,7 @@ for (let i = 0; i < numbers.length; i++) {
 if (index === -1){
     console.log("Không tìm thấy trong mảng")
 }else{
-    console.log("Số "+value+" được tìm thấy ở vị trí "+i);
+    console.log("Số "+value+" được tìm thấy ở vị trí "+index);
+
+    console.log(`Số ${value} được tìm thấy ở vị trí ${index}`);
 }
